@@ -1,0 +1,182 @@
+#logo {
+	width: 350px;
+	height: 90px;
+	background-color: blue;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 10px;
+	color: white;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+	margin-left: 700px;
+
+
+}
+
+
+/*#headerId {*/
+
+    /*font-family: 'Georgia' Times, TimesNewRoman, Serif;*/
+    /*color: white ;	*/
+/*} */
+
+h1,h2,h3 p {
+	         margin-bottom: 20px;
+}
+
+
+h1,h2,h3 {
+	       font-family: 'Georgia' Times, TimesNewRoman, Serif;
+}
+
+
+h1 {
+	font-size: 35px;
+/*	line-height: 49px;
+	border-bottom: 3px;*/
+	/*padding-bottom: 20px;*/
+}
+
+h2,h3 {
+	   font-size: 70px;
+	   text-align: center;
+}
+
+p {
+	font-size: 35px;
+	color: brown;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	margin-bottom: 20px;
+	margin-left: 150px;
+
+}
+
+#gameBox {
+
+	width: 900px;
+	height:800px;
+	background: yellow;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 35px;
+	color: brown;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+	margin-left: 500px;
+	padding-top: 50px;
+
+}
+
+button {
+
+	width: 300px;
+	height:150px;
+	background: pink;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: center;
+	line-height: 50px;
+	color: black;
+	font-weight: 700;
+	font-size: 50px;
+	text-decoration: none;
+	margin-left: 300px;
+	margin-top: 30px;
+
+
+}
+.imageLine {
+
+	margin-left: 250px;
+	margin-top: 20px;
+	width: 300px;
+	height:300px;
+	padding-top: 40px;
+}
+
+#displayResults {
+
+	display: inline;
+}
+
+#numberToGuessBox {
+
+	width: 300px;
+	height: 200px;
+	background-color: Green;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 10px;
+	color: black;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+	
+}
+
+h3,#Wins,#Losses {
+
+	font-size: 40px;
+	color: blue;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+}
+
+#gameResultsBox {
+
+	width: 150px;
+	height:200px;
+	background-color: purple;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 2px;
+	color: blue;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+
+}
+
+.carImage {
+
+	padding-right: 10px;
+}
+
+#totalScoreTextBox {
+
+    width: 300px;
+	height: 50px;
+	background-color: red;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 2px;
+	color: white;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;	
+}
+
+#totalScoreBox {
+
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 2px;
+	color: white;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;	
+
+}
+
+#totalScoreNumber {
+
+	font-size: 75px;
+	color: white;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+}
+
+
+          
