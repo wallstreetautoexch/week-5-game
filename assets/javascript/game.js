@@ -291,11 +291,7 @@
 
         }
 
-            // console.log (questionAndAnswer[0].answer[0].answerText);
-            // console.log (questionAndAnswer[0].answer[0].answerValue);
-            // console.log (questionAndAnswer[1].question);
-            // console.log (questionAndAnswer[1].answer[1].answerText);
-            // console.log (questionAndAnswer[1].answer[1].answerValue);
+            
 
          function determineAnswerStatus (stat)
 
